@@ -10,7 +10,9 @@ get_users.ipyenbを実行したときに作成されたリストを入力に、�
 
 ## remove_following.ipynb
 make_oneside_follow_list.ipynbを実行したときに作成されたリストを入力に、フォロー解除を行います。<br/>
-フォロー解除したユーザーのリストを出力します。
+フォロー解除したユーザーのリストを出力します。<br/>
+
+<br/>
 
 詳しい説明はこちらで。
 https://talosta.hatenablog.com/entry/twitter-auto-remove
