@@ -14,5 +14,5 @@ make_oneside_follow_list.ipynbを実行したときに作成されたリスト�
 
 <br/>
 
-詳しい説明はこちらで。
+詳しい説明はこちらで。<br/>
 https://talosta.hatenablog.com/entry/twitter-auto-remove
